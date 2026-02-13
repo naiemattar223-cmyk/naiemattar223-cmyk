@@ -1,135 +1,122 @@
-<div style="font-family:Segoe UI,Arial;background:#0d1117;color:#c9d1d9;padding:30px;border-radius:14px;">
-
-<!-- Animated Header -->
-<h1 align="center"
-style="
-background: linear-gradient(90deg,#58a6ff,#79c0ff,#58a6ff);
--webkit-background-clip:text;
-color:transparent;
-animation: glow 4s infinite;
-">
-Hi 👋 I'm Naiem Attar
-</h1>
-
-<style>
-@keyframes glow{
-0%{opacity:0.7}
-50%{opacity:1}
-100%{opacity:0.7}
-}
-
-.typing{
-width:fit-content;
-overflow:hidden;
-white-space:nowrap;
-border-right:3px solid #58a6ff;
-animation:typing 4s steps(40,end) infinite alternate,
-blink .7s infinite;
-}
-
-@keyframes typing{
-from{width:0}
-to{width:100%}
-}
-
-@keyframes blink{
-50%{border-color:transparent}
-}
-
-.card{
-background:#161b22;
-padding:15px;
-border-radius:10px;
-margin:10px;
-transition:.4s;
-}
-
-.card:hover{
-transform:translateY(-5px);
-box-shadow:0 0 20px #58a6ff33;
-}
-</style>
+<div align="center" style="background:#0d1117;color:#c9d1d9;
+font-family:'Segoe UI',Arial;padding:40px;border-radius:16px;">
 
 <!-- Typing Animation -->
-<p align="center" class="typing">
-🚀 Linux | AWS | DevOps Engineer | Automation Enthusiast
+<img src="https://readme-typing-svg.demolab.com?
+font=Fira+Code&
+size=28&
+pause=1000&
+color=58A6FF&
+center=true&
+vCenter=true&
+width=700&
+lines=Hi+👋+I'm+Naiem+Attar;
+Linux+%7C+AWS+%7C+DevOps+Engineer;
+Automate.+Build.+Deploy.+Scale." />
+
+<br><br>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284119-0f9fa9aa-91cc-4c8b-9b91-f5cde8a4e5f7.gif" width="100%"/>
+
+<h3>🚀 DevOps | ☁️ Cloud | 🐧 Linux Enthusiast</h3>
+
+<p>
+Building reliable, scalable infrastructure using automation, containers,
+and cloud-native technologies. Always learning. Always improving.
 </p>
 
-<hr style="border:1px solid #30363d;">
-
-<h2 align="center">💼 About Me</h2>
-<p align="center">
-Motivated IT professional passionate about Linux administration,
-AWS cloud infrastructure, and DevOps automation.  
-I enjoy solving real-world infrastructure problems and continuously
-learning new technologies.
-</p>
-
-<hr style="border:1px solid #30363d;">
-
-<h2 align="center">⚡ Tech Stack</h2>
-
-<p align="center">
+<!-- Tech Badges -->
+<p>
 <img src="https://img.shields.io/badge/Linux-RHEL9-red?style=for-the-badge&logo=linux">
 <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws">
-<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker">
-<img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes">
-<img src="https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform">
-<img src="https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-<img src="https://img.shields.io/badge/Nagios-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker">
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326ce5?style=for-the-badge&logo=kubernetes">
+<img src="https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform">
+<img src="https://img.shields.io/badge/Jenkins-CI/CD-red?style=for-the-badge&logo=jenkins">
+<img src="https://img.shields.io/badge/GitHub-Version_Control-black?style=for-the-badge&logo=github">
 </p>
 
-<hr style="border:1px solid #30363d;">
+<!-- Summary -->
+<h2>💼 About Me</h2>
 
-<h2 align="center">🧠 Skills Overview</h2>
-
-<div style="display:flex;flex-wrap:wrap;justify-content:center;">
-
-<div class="card">
-<h3>🐧 Linux</h3>
-RHEL9, LVM, SSH, Firewalld, Yum,<br>
-Crontab, Backup, SSL, Networking,<br>
-Shell Scripting
-</div>
-
-<div class="card">
-<h3>☁️ AWS</h3>
-EC2, RDS, S3, Lambda,<br>
-IAM, VPC, CloudWatch,<br>
-Load Balancer, Snapshots
-</div>
-
-<div class="card">
-<h3>⚙️ DevOps</h3>
-Docker, Kubernetes,<br>
-Terraform, Jenkins,<br>
-CI/CD, GitHub, Nagios
-</div>
-
-</div>
-
-<hr style="border:1px solid #30363d;">
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
+<p style="max-width:800px;">
+I am looking for an opportunity to use my skills and abilities to make a positive
+impact on an IT organization. I work effectively in fast-paced environments,
+collaborate well within teams, and remain committed to continuous learning
+and new challenges.
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight">
+<!-- Skills Section -->
+<h2>🧰 Tech Stack</h2>
+
+<table align="center">
+<tr>
+<td valign="top">
+
+<b>🐧 Linux</b>
+<ul>
+<li>RHEL 9</li>
+<li>User Administration</li>
+<li>LVM • Crontab • SSH</li>
+<li>Firewalld • Yum</li>
+<li>Backup & Restore</li>
+<li>SSL • Networking</li>
+<li>Shell Scripting</li>
+</ul>
+
+</td>
+
+<td valign="top">
+
+<b>☁️ AWS</b>
+<ul>
+<li>EC2 • RDS • S3</li>
+<li>Lambda</li>
+<li>IAM • VPC</li>
+<li>CloudWatch</li>
+<li>Load Balancer</li>
+<li>Snapshots</li>
+<li>Elastic IP</li>
+</ul>
+
+</td>
+
+<td valign="top">
+
+<b>⚙️ DevOps</b>
+<ul>
+<li>Docker Swarm</li>
+<li>Kubernetes</li>
+<li>Terraform</li>
+<li>Jenkins</li>
+<li>CI/CD Pipelines</li>
+<li>Nagios</li>
+<li>GitHub</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+<!-- Stats -->
+<h2>📊 GitHub Stats</h2>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight">
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
-<hr style="border:1px solid #30363d;">
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
-<h3 align="center">
-💼 Open to Linux / AWS / DevOps Opportunities
-</h3>
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1f6feb&height=120&section=footer"/>
+
+<h3>📫 Open to DevOps / Cloud / Linux Roles</h3>
 
 </div>
-
