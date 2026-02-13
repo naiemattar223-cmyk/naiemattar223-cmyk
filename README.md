@@ -1,116 +1,123 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>GitHub Profile</title>
+<div align="center" style="background:#0d1117;color:#c9d1d9;
+font-family:'Segoe UI',Arial;padding:40px;border-radius:16px;">
 
-<style>
-body {
-    font-family: Arial, sans-serif;
-    background:#0d1117;
-    color:#c9d1d9;
-    margin:0;
-    padding:20px;
-}
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?
+font=Fira+Code&
+size=28&
+pause=1000&
+color=58A6FF&
+center=true&
+vCenter=true&
+width=700&
+lines=Hi+👋+I'm+Naiem+Attar;
+Linux+%7C+AWS+%7C+DevOps+Engineer;
+Automate.+Build.+Deploy.+Scale." />
 
-.container {
-    max-width:900px;
-    margin:auto;
-    padding:20px;
-    border-radius:10px;
-}
+<br><br>
 
-h1 {
-    color:#58a6ff;
-}
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284119-0f9fa9aa-91cc-4c8b-9b91-f5cde8a4e5f7.gif" width="100%"/>
 
-h2 {
-    color:#79c0ff;
-    border-bottom:1px solid #30363d;
-    padding-bottom:5px;
-}
+<h3>🚀 DevOps | ☁️ Cloud | 🐧 Linux Enthusiast</h3>
 
-ul {
-    list-style:none;
-    padding:0;
-}
-
-li {
-    background:#161b22;
-    margin:6px 0;
-    padding:8px 12px;
-    border-radius:6px;
-}
-
-.tagline {
-    font-size:18px;
-    margin-bottom:20px;
-}
-</style>
-</head>
-
-<body>
-<div class="container">
-
-<h1>Hi 👋 I'm Naiem Attar</h1>
-
-<p class="tagline">
-Motivated IT professional passionate about Linux, Cloud, and DevOps technologies.
-I enjoy solving problems, automating workflows, and continuously learning new tools.
-</p>
-
-<h2>💼 Professional Summary</h2>
 <p>
-I am looking for an opportunity to use my skills and abilities to make a positive
-impact on an IT organization. I am a strong team player who works effectively in
-fast-paced environments and is committed to continuous learning and new challenges.
+Building reliable, scalable infrastructure using automation, containers,
+and cloud-native technologies. Always learning. Always improving.
 </p>
 
-<h2>🐧 Linux Technical Skills</h2>
+<!-- Tech Badges -->
+<p>
+<img src="https://img.shields.io/badge/Linux-RHEL9-red?style=for-the-badge&logo=linux">
+<img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws">
+<img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker">
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326ce5?style=for-the-badge&logo=kubernetes">
+<img src="https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform">
+<img src="https://img.shields.io/badge/Jenkins-CI/CD-red?style=for-the-badge&logo=jenkins">
+<img src="https://img.shields.io/badge/GitHub-Version_Control-black?style=for-the-badge&logo=github">
+</p>
+
+<!-- Summary -->
+<h2>💼 About Me</h2>
+
+<p style="max-width:800px;">
+I am looking for an opportunity to use my skills and abilities to make a positive
+impact on an IT organization. I work effectively in fast-paced environments,
+collaborate well within teams, and remain committed to continuous learning
+and new challenges.
+</p>
+
+<!-- Skills Section -->
+<h2>🧰 Tech Stack</h2>
+
+<table align="center">
+<tr>
+<td valign="top">
+
+<b>🐧 Linux</b>
 <ul>
-<li>RHEL 9 Administration</li>
+<li>RHEL 9</li>
 <li>User Administration</li>
-<li>LVM Management</li>
-<li>Crontab Scheduling</li>
-<li>SSH Configuration</li>
-<li>Firewalld</li>
-<li>Yum Package Management</li>
-<li>Root Password Recovery</li>
+<li>LVM • Crontab • SSH</li>
+<li>Firewalld • Yum</li>
 <li>Backup & Restore</li>
-<li>SSL Configuration</li>
-<li>Network Configuration</li>
+<li>SSL • Networking</li>
 <li>Shell Scripting</li>
 </ul>
 
-<h2>☁️ AWS Cloud Skills</h2>
+</td>
+
+<td valign="top">
+
+<b>☁️ AWS</b>
 <ul>
-<li>EC2, RDS, S3</li>
+<li>EC2 • RDS • S3</li>
 <li>Lambda</li>
-<li>IAM</li>
-<li>VPC</li>
+<li>IAM • VPC</li>
 <li>CloudWatch</li>
 <li>Load Balancer</li>
 <li>Snapshots</li>
 <li>Elastic IP</li>
 </ul>
 
-<h2>⚙️ DevOps Skills</h2>
+</td>
+
+<td valign="top">
+
+<b>⚙️ DevOps</b>
 <ul>
-<li>Nagios Monitoring</li>
 <li>Docker Swarm</li>
 <li>Kubernetes</li>
 <li>Terraform</li>
 <li>Jenkins</li>
 <li>CI/CD Pipelines</li>
-<li>GitHub Version Control</li>
+<li>Nagios</li>
+<li>GitHub</li>
 </ul>
 
-<h2>📫 Contact</h2>
+</td>
+</tr>
+</table>
+
+<!-- Stats -->
+<h2>📊 GitHub Stats</h2>
+
 <p>
-Open to collaboration, learning opportunities, and IT roles.
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1f6feb&height=120&section=footer"/>
+
+<h3>📫 Open to DevOps / Cloud / Linux Roles</h3>
+
 </div>
-</body>
-</html>
 
